@@ -1,0 +1,114 @@
+.shape1{
+	width: 200px;
+	height: 150px;
+	border: 5px solid #FFA32D;
+	background-color: #86057B;
+	border-radius: 5px;
+	float: left;
+	margin-right: 10px;
+	
+}
+
+.shape2{
+	width: 200px;
+	height: 150px;
+	border: 5px solid #FFA32D;
+	background-color: #86057B;
+	border-radius: 35%;
+	float: left;
+	margin-right: 10px;
+}
+
+.shape3{
+	width: 150px;
+	height: 150px;
+	border: 5px solid #FFA32D;
+	background-color: #86057B;
+	border-radius: 50%;
+	float: left;
+	margin-right: 10px;
+}
+
+.shape4{
+	width: 150px;
+	height: 150px;
+	border: 5px solid #FFA32D;
+	background-color: #86057B;
+	border-radius: 25px 0px;
+	float: left;
+	margin-right: 10px;
+}
+
+.shape5{
+	width: 150px;
+	height: 150px;
+	border: 5px solid #FFA32D;
+	background-color: #86057B;
+	border-radius: 100% 0px 0px 0px;
+	float: left;
+	margin-right: 10px;
+}
+
+.shape6{
+	width: 150px;
+	height: 150px;
+	border: 5px solid #FFA32D;
+	background-color: #86057B;
+	border-radius: 100% 0px;
+	float: left;
+	margin-right: 10px;
+}
+
+.shape7{
+	width: 170px;
+	height: 150px;
+	border: 5px solid #FFA32D;
+	background-color: #86057B;
+	border-radius: 50% 50% 0px 0px;
+	float: left;
+	margin-right: 10px;
+}
+.bdflag{
+	width: 50%;
+	margin: 0 auto;
+}
+.flagbackground{
+	width: 300px;
+	height: 200px;
+	background-color: green;
+	float: left;
+	box-shadow: 5px 5px 10px 3px black;
+}
+
+.flagcircle{
+	width: 110px;
+	height: 110px;
+	background-color: red;
+	border-radius:50%;
+	margin-left: -200px;
+	margin-top: 45px;
+	float: left;
+	box-shadow: 5px 5px 10px 1px black;
+}
+
+.shape8{
+	width: 200px;
+	height: 200px;
+	border: 5px solid blue;
+	background-color: #F6A52E;
+	border-radius: 25px;
+	float: left;
+	margin-right: 50px;
+	box-shadow: 10px 10px 0px 2px #999999;
+}
+.shape9{
+	width: 200px;
+	height: 200px;
+	border: 5px solid blue;
+	background-color: #F6A52E;
+	border-radius: 25px;
+	float: left;
+	box-shadow: 10px 10px 0px 2px #9B6617 inset;
+}
+
+
